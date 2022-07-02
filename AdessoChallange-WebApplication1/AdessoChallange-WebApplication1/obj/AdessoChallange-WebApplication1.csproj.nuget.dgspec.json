@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj": {}
+    "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj": {
+    "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
         "projectName": "AdessoChallange-WebApplication1",
-        "projectPath": "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
+        "projectPath": "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
         "packagesPath": "C:\\Users\\EnesSari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EnesSari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Iq8Gy6ObvNa2MlBDXFVwFnUCM4a4mXrcfPybqhsnHMGv+wWvKx6vSNJh9TCVnjj0mu80jc9NNLQPF7GFNgsElw==",
+  "dgSpecHash": "Oeemrhpr4jeeTCJ4mnZc9fPHWM6OKs9Hsdk8YYTkhdI+uNScDuLvKfZ61mQprlHzcDAV0nn2uKCCNsD/dKBnIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EnesSari\\source\\repos\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\EnesSari\\OneDrive - DefineX\\Documents\\GitHub\\adesso-challenge\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1\\AdessoChallange-WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\EnesSari\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.6\\microsoft.aspnetcore.jsonpatch.6.0.6.nupkg.sha512",
+    "C:\\Users\\EnesSari\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.6.nupkg.sha512",
+    "C:\\Users\\EnesSari\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\EnesSari\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\EnesSari\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EnesSari\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\EnesSari\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\EnesSari\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\EnesSari\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\EnesSari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
