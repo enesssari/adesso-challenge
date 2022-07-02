@@ -1,0 +1,26 @@
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\appsettings.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.staticwebassets.runtime.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.exe
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.deps.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.runtimeconfig.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.dll
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\bin\Debug\net6.0\Young Adessi Challenge.pdb
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.csproj.AssemblyReference.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.AssemblyInfoInputs.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.AssemblyInfo.cs
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.csproj.CoreCompileInputs.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.RazorAssemblyInfo.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.RazorAssemblyInfo.cs
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\scopedcss\bundle\Young Adessi Challenge.styles.css
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\scopedcss\projectbundle\Young Adessi Challenge.bundle.scp.css
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.dll
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\refint\Young Adessi Challenge.dll
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.pdb
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\Young Adessi Challenge.genruntimeconfig.cache
+C:\Users\EnesSari\source\repos\Young Adessi Challenge\Young Adessi Challenge\obj\Debug\net6.0\ref\Young Adessi Challenge.dll
